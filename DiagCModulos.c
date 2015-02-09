@@ -91,5 +91,5 @@ void main ()
 
     ProcLectura(a, b, AniosArreglo, PeriodosArreglo, PeriodosArreglo);//Mando a llamar al procedimiento ProcLectura para que lea variables
     ImprimeResult(a, b, AniosArreglo, PeriodosArreglo, PeriodosArreglo);//Mando a llamar a la funcion para que imprima las sumas
-
+    printf("YOLO \n");
 }//Din Main
